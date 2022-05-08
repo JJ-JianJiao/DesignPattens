@@ -1,0 +1,8 @@
+D:\ProgrammingLanguage\C#\DesignPattens\DependencyInjection\RoleAndMonster_LowLevel\bin\Debug\RoleAndMonster_LowLevel.exe.config
+D:\ProgrammingLanguage\C#\DesignPattens\DependencyInjection\RoleAndMonster_LowLevel\bin\Debug\RoleAndMonster_LowLevel.exe
+D:\ProgrammingLanguage\C#\DesignPattens\DependencyInjection\RoleAndMonster_LowLevel\bin\Debug\RoleAndMonster_LowLevel.pdb
+D:\ProgrammingLanguage\C#\DesignPattens\DependencyInjection\RoleAndMonster_LowLevel\obj\Debug\RoleAndMonster_LowLevel.csproj.AssemblyReference.cache
+D:\ProgrammingLanguage\C#\DesignPattens\DependencyInjection\RoleAndMonster_LowLevel\obj\Debug\RoleAndMonster_LowLevel.csproj.SuggestedBindingRedirects.cache
+D:\ProgrammingLanguage\C#\DesignPattens\DependencyInjection\RoleAndMonster_LowLevel\obj\Debug\RoleAndMonster_LowLevel.csproj.CoreCompileInputs.cache
+D:\ProgrammingLanguage\C#\DesignPattens\DependencyInjection\RoleAndMonster_LowLevel\obj\Debug\RoleAndMonster_LowLevel.exe
+D:\ProgrammingLanguage\C#\DesignPattens\DependencyInjection\RoleAndMonster_LowLevel\obj\Debug\RoleAndMonster_LowLevel.pdb
